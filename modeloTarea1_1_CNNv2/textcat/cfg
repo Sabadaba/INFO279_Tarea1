@@ -1,0 +1,16 @@
+{
+  "labels":[
+    "sociedad",
+    "cultura",
+    "medioambiente",
+    "entretenimiento",
+    "salud",
+    "cienciatecnologia",
+    "internacional",
+    "deportes",
+    "economia",
+    "politica"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
